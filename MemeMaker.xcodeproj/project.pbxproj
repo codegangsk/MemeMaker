@@ -15,6 +15,7 @@
 		2A02BB3124BB692700DA760D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A02BB2F24BB692700DA760D /* LaunchScreen.storyboard */; };
 		2A02BB3C24BB692700DA760D /* MemeMakerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A02BB3B24BB692700DA760D /* MemeMakerTests.swift */; };
 		2A02BB4724BB692700DA760D /* MemeMakerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A02BB4624BB692700DA760D /* MemeMakerUITests.swift */; };
+		2A02BB5524BC987700DA760D /* CaptionChoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A02BB5424BC987700DA760D /* CaptionChoice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2A02BB4224BB692700DA760D /* MemeMakerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MemeMakerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A02BB4624BB692700DA760D /* MemeMakerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeMakerUITests.swift; sourceTree = "<group>"; };
 		2A02BB4824BB692700DA760D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2A02BB5424BC987700DA760D /* CaptionChoice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionChoice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				2A02BB2D24BB692600DA760D /* Assets.xcassets */,
 				2A02BB2F24BB692700DA760D /* LaunchScreen.storyboard */,
 				2A02BB3224BB692700DA760D /* Info.plist */,
+				2A02BB5424BC987700DA760D /* CaptionChoice.swift */,
 			);
 			path = MemeMaker;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				2A02BB2924BB692600DA760D /* ViewController.swift in Sources */,
 				2A02BB2524BB692600DA760D /* AppDelegate.swift in Sources */,
 				2A02BB2724BB692600DA760D /* SceneDelegate.swift in Sources */,
+				2A02BB5524BC987700DA760D /* CaptionChoice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
